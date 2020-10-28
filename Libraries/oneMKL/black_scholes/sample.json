@@ -2,7 +2,7 @@
   "guid": "7095DF22-8CBC-44FE-8E13-DDEFC49A7B18",
   "name": "Black Scholes",
   "categories": ["Toolkit/oneAPI Libraries/oneMKL"],
-  "description": "Black Scholes formula calculation using Intel® oneMKL Vector Math and Random Number Generators.",
+  "description": "Black Scholes formula calculation using Intel® oneMKL Vector Math and Random Number Generators",
   "toolchain": [ "dpcpp" ],
   "dependencies": [ "mkl" ],
   "languages": [ { "cpp": { "properties": { "projectOptions": [ { "projectType": "makefile" } ] } } } ],

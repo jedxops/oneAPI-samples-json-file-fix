@@ -2,7 +2,7 @@
  "guid": "FC7A16DE-9594-4F40-AFA2-71ACABF366B3",
  "name": "Tutorials",
  "categories": ["Toolkit/oneAPI Libraries/oneDNN"],
- "description": "Intel® oneDNN Tutorials.",
+ "description": "Intel® oneDNN Tutorials",
  "toolchain": ["dpcpp"],
  "languages": [{"cpp":{}}],
  "dependencies": ["oneDNN", "tbb"],

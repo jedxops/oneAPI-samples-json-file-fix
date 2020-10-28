@@ -2,7 +2,7 @@
  "guid": "028AE3ED-2896-4C56-9066-42AA5D5FA973",
  "name": "Getting Started",
  "categories": ["Toolkit/oneAPI Libraries/oneDNN"],
- "description": "Basic Intel® oneDNN programming model for both Intel® CPU and GPU.",
+ "description": "Basic Intel® oneDNN programming model for both Intel® CPU and GPU",
  "toolchain": ["dpcpp"],
  "languages": [{"cpp":{}}],
  "dependencies": ["oneDNN", "tbb"],

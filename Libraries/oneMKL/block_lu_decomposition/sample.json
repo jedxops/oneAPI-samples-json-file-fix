@@ -2,7 +2,7 @@
   "guid": "3EC851D1-056A-4973-A2F7-9FC7EFEDA785",
   "name": "Block LU Decomposition",
   "categories": ["Toolkit/oneAPI Libraries/oneMKL"],
-  "description": "Block LU Decomposition using Intel® oneMKL BLAS and LAPACK.",
+  "description": "Block LU Decomposition using Intel® oneMKL BLAS and LAPACK",
   "toolchain": [ "dpcpp" ],
   "dependencies": [ "mkl" ],
   "languages": [ { "cpp": { "properties": { "projectOptions": [ { "projectType": "makefile" } ] } } } ],

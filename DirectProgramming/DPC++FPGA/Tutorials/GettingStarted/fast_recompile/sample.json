@@ -2,7 +2,7 @@
   "guid": "1457B49A-2CD3-48E5-B3A9-753EAD2D18F7",
   "name": "Fast Recompile",
   "categories": ["Toolkit/oneAPI Direct Programming/DPC++ FPGA/Tutorials/Getting Started"],
-  "description": "An Intel® FPGA tutorial demonstrating how to separate the compilation of host and device code to save development time.",
+  "description": "An Intel® FPGA tutorial demonstrating how to separate the compilation of host and device code to save development time",
   "toolchain": ["dpcpp"],
   "os": ["linux", "windows"],
   "targetDevice": ["FPGA"],

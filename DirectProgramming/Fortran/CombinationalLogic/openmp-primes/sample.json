@@ -1,6 +1,6 @@
 {
   "name": "OpenMP* Primes",
-  "categories": [ "Toolkit/oneAPI Direct Programming/Fortran/Combinational Logic"],
+  "categories": ["Toolkit/oneAPI Direct Programming/Fortran/Combinational Logic"],
   "description": "Fortran Tutorial - Using OpenMP* (OMP)",
   "toolchain": [ "ifort" ],
   "languages": [ { "fortran": {} } ],

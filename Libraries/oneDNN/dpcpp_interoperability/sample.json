@@ -1,8 +1,8 @@
 {
  "guid": "EF50CE31-C467-4374-8BCC-4E5F93B4D1C1",
- "name": "Dpcpp Interoperability",
+ "name": "DPCPP Interoperability",
  "categories": ["Toolkit/oneAPI Libraries/oneDNN"],
- "description": "Intel® oneDNN SYCL extensions API programming for both Intel® CPU and GPU.",
+ "description": "Intel® oneDNN SYCL extensions API programming for both Intel® CPU and GPU",
  "toolchain": ["dpcpp"],
  "languages": [{"cpp":{}}],
  "dependencies": ["oneDNN", "tbb"],

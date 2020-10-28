@@ -2,7 +2,7 @@
  "guid": "C56209D9-5CF1-4EEC-AE95-596D81640AEB",
  "name": "oneCCL Getting Started",
  "categories": ["Toolkit/oneAPI Libraries/oneCCL"],
- "description": "Basic Intel® oneCCL programming model for both Intel® CPU and GPU.",
+ "description": "Basic Intel® oneCCL programming model for both Intel® CPU and GPU",
  "toolchain": ["dpcpp"],
  "languages": [{"cpp":{}}],
  "dependencies": ["ccl"],
