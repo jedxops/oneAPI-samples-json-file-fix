@@ -1,7 +1,7 @@
 {
     "name": "MergeSort OMP",
-    "categories": ["Toolkit/Direct Programming/C++/Graph Traversal/"],
-    "description": "Classic OpenMP* Mergesort algorithm",
+    "categories": ["Toolkit/oneAPI Direct Programming/C++/Graph Traversal"],
+    "description": "Classic OpenMP* (OMP) Mergesort algorithm",
     "os": ["darwin"],
     "builder": ["make"],
     "languages": [{"cpp":{}}],

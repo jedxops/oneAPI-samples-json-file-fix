@@ -1,7 +1,7 @@
 {
  "guid": "82e7612f-2810-4d12-9c75-c17fcbb946fa",
- "name": "Intel® Low Precision Optimization Tool (iLiT) Sample for Tensorflow",
- "categories": ["Toolkit/AI And Analytics/Getting Started Samples/Intel Low Precision Optimization Getting Started Toolkit/iLiT"],
+ "name": "ILiT Sample For Tensorflow",
+ "categories": ["Toolkit/oneAPI AI And Analytics/Getting Started Samples/Intel Low Precision Optimization Getting Started"],
  "description": "This sample illustrates how to run iLiT to quantize the FP32 model trained by Keras on Tensorflow to INT8 model to speed up the inference.",
  "languages": [{"python":{}}],
  "dependencies": ["tensoflow","notebook","matplotlib"],
