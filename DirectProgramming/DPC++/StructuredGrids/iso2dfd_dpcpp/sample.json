@@ -1,8 +1,8 @@
 {
   "guid": "9483C0F0-7D63-4E99-86C5-37C40F77B2AE" ,
-  "name": "Iso2dfd DPCPP",
+  "name": "ISO2DFD DPCPP",
   "categories": ["Toolkit/oneAPI Direct Programming/DPC++/Structured Grids"],
-  "description": "The Iso2dfd sample illustrates Intel® oneAPI Data Parallel C++ (DPC++) Basics using 2d Finite Difference Wave Propagation",
+  "description": "The ISO2DFD sample illustrates Intel® oneAPI Data Parallel C++ (DPC++) Basics using 2D Finite Difference Wave Propagation",
   "toolchain": [ "dpcpp" ],
   "targetDevice": [ "CPU", "GPU" ],
   "languages": [ { "cpp": {} } ],
